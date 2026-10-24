@@ -1,1 +1,9 @@
-{ "rewrites":  { "source": "/(.*)", "destination": "/advanced.py" } ] }
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/advanced.py"
+    }
+  ]
+}
+
